@@ -6,7 +6,7 @@ type bill struct {
 	tip float64
 }
 
-// make new bills
+// make new bill
  
 func newBill(name string) bill {
 	b:= bill{
